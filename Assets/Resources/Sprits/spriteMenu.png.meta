@@ -60,7 +60,7 @@ TextureImporter:
       213: -7992362110586252619
     second: spriteMenu_0
   externalObjects: {}
-  serializedVersion: 10
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -80,6 +80,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -89,8 +91,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -111,9 +113,13 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -563,6 +569,26 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      load game: -8254623037650398001
+      resume: -3042908002689003627
+      control menu: 2841438771165750862
+      paused: 6517132381872972552
+      quit: -6677326931893542300
+      exit to menu: 5745117280927465472
+      new game s: -5001410734875961223
+      control: 5094881260267936260
+      FIGHTING!: 2025403342832499639
+      spriteMenu_0: -7992362110586252619
+      quit s: 7514809066657059862
+      ok: -3884204314286615850
+      back: 1187961194834725857
+      control s: -6526326875529978855
+      GAME OVER: -610744246927785243
+      load game s: -2583730080880366110
+      new game: 99337798456069924
+      exit to menu s: 8987808819109195091
+      resume s: 5902144306840727093
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

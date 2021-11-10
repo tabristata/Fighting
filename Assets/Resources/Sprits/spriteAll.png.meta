@@ -186,7 +186,7 @@ TextureImporter:
       213: -6309657736541757526
     second: spriteAll_40
   externalObjects: {}
-  serializedVersion: 10
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -206,6 +206,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -215,8 +217,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -237,9 +239,13 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -1292,7 +1298,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 1084b43263d2f40f2992775c3ec1332c
-      internalID: -5883502964764023012
+      internalID: 5553479064681360515
       vertices: []
       indices: 
       edges: []
@@ -1370,6 +1376,59 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      spriteAll_9: 7410611650431603265
+      spriteAll_0: 7371371759542713644
+      spriteAll_37: 5553479064681360515
+      spriteAll_8: 2736464051068045964
+      spriteAll_2: -4901809728388143516
+      Obstacle1_3: 1956612577837124828
+      DashReady: -246975211569683253
+      spriteAll_4: 4392181883804641294
+      spriteAll_20: 5904799320754784826
+      spriteAll_6: -3355862250447467856
+      spriteAll_32: 4228534254192652106
+      spriteAll_31: 2137749775053971462
+      spriteAll_1: 6674823511043813196
+      spriteAll_12: 3864710314301373230
+      spriteAll_14: 2148351105345726504
+      spriteAll_21: -1687852822155688780
+      spriteAll_10: 5236833989741051888
+      spriteAll_24: -418119446101526017
+      SPEED UP!: -5537190938137335514
+      Obstacle1_6: 1037752173294064930
+      spriteAll_18: -7617590319858512568
+      Obstacle1_2: 7232961100621869623
+      MegaReady: -5778203687378856281
+      spriteAll_36: -3832411255939492453
+      spriteAll_25: 3341822247828562697
+      spriteAll_5: 8843095089749845050
+      spriteAll_22: 4624631219020462271
+      HIGH SCORE: 5964324293159746459
+      spriteAll_13: -2541275942280103328
+      spriteAll_23: -7420977799360366936
+      spriteAll_15: -7583043422805804139
+      Spark00: -3253474075020607229
+      SCORE: 1041364171754981974
+      spriteAll_26: -4318977745075827818
+      spriteAll_11: 4260551341766492978
+      spriteAll_39: -8369635385051181888
+      Obstacle1_0: -5883502964764023012
+      spriteAll_33: 3009618567944138761
+      spriteAll_27: -2399862391965403992
+      Obstacle1_4: 8099888144116907680
+      spriteAll_7: 3336394064803380978
+      spriteAll_17: 1552781218649907798
+      spriteAll_16: 2265887452499130113
+      spriteAll_19: 7013912928867988744
+      spriteAll_29: 2536997920075184317
+      spriteAll_40: -6309657736541757526
+      spriteAll_28: -932248365724659206
+      spriteAll_38: -7540809382873305059
+      Ground: 2785487252444896389
+      spriteAll_30: -4459542769711741117
+      spriteAll_3: 4342311292287912477
+      Obstacle1_5: -6976525776735963931
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
